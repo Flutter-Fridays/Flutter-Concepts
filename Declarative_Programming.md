@@ -11,3 +11,5 @@ and elements of computer programs—that expresses the logic of a computation wi
 ## In a human language: 
 **Declarative Programming** is like asking your friend to draw a landscape. You don’t care how they draw it, that’s up to them.
 **Imperative Programming** is like your friend listening to Bob Ross tell them how to paint a landscape. While good ole Bob Ross isn’t exactly commanding, he is giving them step by step directions to get the desired result.
+
+Thanks to https://codeburst.io/declarative-vs-imperative-programming-a8a7c93d9ad2 for a great explantion.
